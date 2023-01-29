@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [3v3_Voltage_Regulator.PrjPcb]
+   Generated File[PCB_Copper_Signal_Top.gbr]
+   Generated File[PCB_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Pads_Bot.gbr]
+   Generated File[PCB_Pads_Top.gbr]
+   Generated File[PCB_Legend_Bot.gbr]
+   Generated File[PCB_Soldermask_Bot.gbr]
+   Generated File[PCB_Paste_Bot.gbr]
+   Generated File[PCB_Legend_Top.gbr]
+   Generated File[PCB_Paste_Top.gbr]
+   Generated File[PCB_Soldermask_Top.gbr]
+   Generated File[PCB_Mechanical_5.gbr]
+   Generated File[PCB_Mechanical_6.gbr]
+   Generated File[PCB_Profile.gbr]
+   Generated File[PCB_NPTH_Drill.gbr]
+   Generated File[PCB_PTH_Drill.gbr]
+   Generated File[PCB.RUL]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 18:10:47 On 29-01-2023
