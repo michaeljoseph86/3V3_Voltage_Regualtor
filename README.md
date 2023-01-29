@@ -6,12 +6,11 @@
 
 ### Current repository folder structure:
 
-- *3D_Files:*
-  - 3D_PDF_Model.pdf - A 3D model of the PCB (can be viewed using Adobe Acrobat)
-  - 3D_Step_File.step - Step file of the PCB
-- *PCB_Manufacturing:* Gerber output and NC Drill files
-- *Schematic:* The PDF contains Schematic of the PCB, PCB view and BOM.
-
+- _3D_Files:_
+  - _3D_PDF_Model.pdf_ - A 3D model of the PCB (can be viewed using Adobe Acrobat)
+  - _3D_Step_File.step_ - Step file of the PCB
+- _PCB_Manufacturing:_ Gerber output and NC Drill files
+- _Schematic:_ The PDF contains Schematic of the PCB, PCB view and BOM.
 
 <p>Note: Most subfolders include an additional README that further describes its contents.</p>
 
