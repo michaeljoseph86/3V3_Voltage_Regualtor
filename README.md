@@ -4,9 +4,9 @@
 
 ![Tux, the Linux mascot](https://i.imgur.com/hN47aSC.png)
 
-###**Current repository folder structure:**
+### **Current repository folder structure:**
 
-<p>**3D_Files : **<br>
+<p> 3D_Files : <br>
 3D_PDF_Model.pdf - A 3D model of the PCB (can be viewed using Adobe Acrobat)<br>
 3D_Step_File.step - Step file of the PCB <br>
 **PCB_Manufacturing : **<br>
