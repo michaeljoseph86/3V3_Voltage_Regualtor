@@ -1,10 +1,11 @@
+
 # 3V3 lDO Regulator
 
 **AMS1117** 3V3 Step Down Power Supply Module
 
-![Tux, the Linux mascot](https://i.imgur.com/hN47aSC.png)
+  ![Tux, the Linux mascot](https://i.imgur.com/hN47aSC.png)
 
-**Current repository folder structure:**
+###**Current repository folder structure:**
 
 <p>Calibration: Raw sensor data useful for checking calibration algorithms (e.g. accelerometer bias, scale factor, etc.).
 Communication: UAVLink data protocol for reliably packing and transferring data and commands between the aircraft and a further device (e.g. base station). This could be via telemetry or direct serial links.
@@ -24,3 +25,4 @@ Tests: Miscallaneous tests go here. For instance, device driver testing, communi
 <p>Note: Most subfolders include an additional README that further describes its contents.</p>
 
 <p>Disclaimer: No guarantees are made regarding accuracy and correctness of schematic symbols, footprints, and 3D models. Use at your own risk.</p>
+
